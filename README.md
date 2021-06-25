@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Intelligent-2007
 - 👀 I’m interested in gaming and coding 
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on no idea 
 - 📫 How to reach me discord id:- Intelligent2007#6010
 
